@@ -1,0 +1,60 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/macmini1_cuceimobile/Dropbox/2017/UDGSegura/Build/Intermediates/ArchiveIntermediates/UDGSegura/BuildProductsPath/Release-iphoneos/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "IQKeyboardManagerSwift-Swift.h",
+          'external-contents': "/Users/macmini1_cuceimobile/Dropbox/2017/UDGSegura/Build/Intermediates/ArchiveIntermediates/UDGSegura/BuildProductsPath/Release-iphoneos/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework/Headers/IQKeyboardManagerSwift-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQKeyboardManagerSwift-umbrella.h",
+          'external-contents': "/Users/macmini1_cuceimobile/Dropbox/2017/UDGSegura/Pods/Target Support Files/IQKeyboardManagerSwift/IQKeyboardManagerSwift-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/macmini1_cuceimobile/Dropbox/2017/UDGSegura/Build/Intermediates/ArchiveIntermediates/UDGSegura/BuildProductsPath/Release-iphoneos/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/macmini1_cuceimobile/Dropbox/2017/UDGSegura/Build/Intermediates/ArchiveIntermediates/UDGSegura/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/IQKeyboardManagerSwift.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/macmini1_cuceimobile/Dropbox/2017/UDGSegura/Build/Intermediates/ArchiveIntermediates/UDGSegura/BuildProductsPath/Release-iphoneos/Pods_UDGSegura.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-UDGSegura-umbrella.h",
+          'external-contents': "/Users/macmini1_cuceimobile/Dropbox/2017/UDGSegura/Pods/Target Support Files/Pods-UDGSegura/Pods-UDGSegura-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_UDGSegura-Swift.h",
+          'external-contents': "/Users/macmini1_cuceimobile/Dropbox/2017/UDGSegura/Build/Intermediates/ArchiveIntermediates/UDGSegura/BuildProductsPath/Release-iphoneos/Pods_UDGSegura.framework/Headers/Pods_UDGSegura-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/macmini1_cuceimobile/Dropbox/2017/UDGSegura/Build/Intermediates/ArchiveIntermediates/UDGSegura/BuildProductsPath/Release-iphoneos/Pods_UDGSegura.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/macmini1_cuceimobile/Dropbox/2017/UDGSegura/Build/Intermediates/ArchiveIntermediates/UDGSegura/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods-UDGSegura.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
